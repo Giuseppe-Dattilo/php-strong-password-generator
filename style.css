@@ -1,0 +1,33 @@
+/* Reset */
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+/* Generics */
+
+body{
+font-family: sans-serif;
+background-color: #222429;
+color: white;
+}
+
+.card-container{
+max-width: 600px;
+margin: 0 auto;
+}
+
+.pass-container{
+max-width: 600px;
+margin: 0 auto;
+} 
+
+
+.card{
+height: 200px;
+background-color: #222429;
+border: 1px solid white;
+padding: 50px;
+}
